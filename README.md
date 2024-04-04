@@ -27,7 +27,7 @@
 </div>
 
 ## :man_technologist: About Me :
-I am a Developer C/C++ <img src="" width="30"> from Novosibirsk.
+I am a Developer C/C++ from Novosibirsk.
 - :briefcase: I work as a software engineer and am engaged in programming SMT32 microcontrollers.
 - :man_student: I have a higher education in the specialty "Radio communications". He studied at SibSUTIS.
 - :computer: I am a student of "School-21 " from Sberbank.
