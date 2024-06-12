@@ -68,15 +68,19 @@ I am a Developer C/C++ from Novosibirsk.
 1. [SimpleBashUtils](https://github.com/beregonb/s21_SimpleBashUtils)
 2. [s21_math](https://github.com/beregonb/s21_math)
 3. [s21_string+](https://github.com/beregonb/s21_stringplus)
-4. [s21_decimal]()
+4. [s21_decimal](https://github.com/beregonb/s21_decimal)
 5. [s21_matrix](https://github.com/beregonb/s21_matrix)
 6. [SmartCalc_v1.0](https://github.com/beregonb/SmartCalc-v1.0)
+
+#### <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="15" height="15" /> C++ Language:
+
+1. [s21_matrix_cpp](https://github.com/beregonb/s21_matrix_cpp)
 
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="20" height="20"/> DevOps:
 1. [Linux](https://github.com/beregonb/Linux_01)
 
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="20" height="20"/> SQL:
-1. [SQL BootCamp]()
+1. [SQL BootCamp](https://github.com/beregonb/SQL_Project)
 
 ---
 ### STM32 Project:
