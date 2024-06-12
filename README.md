@@ -79,7 +79,7 @@ I am a Developer C/C++ from Novosibirsk.
 1. [Linux](https://github.com/beregonb/Linux_01)
 
 #### <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="20" height="20"/> SQL:
-1. [SQL BootCamp](https://github.com/beregonb/SQL_Project)
+1. [SQL BootCamp](https://github.com/beregonb/SQL_Project/tree/master)
 
 ---
 ### STM32 Project:
