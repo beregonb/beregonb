@@ -31,8 +31,7 @@ I am a Developer C/C++ from Novosibirsk.
 - :briefcase: I work as a software engineer and am engaged in programming SMT32 microcontrollers.
 - :man_student: I have a higher education in the specialty "Radio communications". He studied at SibSUTIS.
 - :computer: I am a student of "School-21 " from Sberbank.
-- :video_game: I dream of becoming a game developer.
-- :email: How to reach me: [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=icloud&logoColor=white)](mailto:noka96@mail.ru)
+- :email: How to reach me: [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=icloud&logoColor=white)](mailto:S.G.Gorkovenko@yandex.ru)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
